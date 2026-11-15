@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "TRT",
+    "CSS"
+  ],
+  "key": {
+    "C": "minecraft:copper_ingot",
+    "T": "minecraft:redstone_torch",
+    "R": "minecraft:redstone",
+    "S": "minecraft:stone"
+  },
+  "result": {
+    "id": "amplifiermod:amplifier",
+    "count": 1
+  }
+}

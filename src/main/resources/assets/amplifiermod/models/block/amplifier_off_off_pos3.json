@@ -1,0 +1,89 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "amplifiermod:block/amplifier_off_off",
+		"particle": "minecraft:block/smooth_stone"
+	},
+	"elements": [
+		{
+			"name": "plate",
+			"from": [0, 0, 0],
+			"to": [16, 2, 16],
+			"faces": {
+				"north": {"uv": [8, 0, 16, 1], "texture": "#0"},
+				"east": {"uv": [8, 0, 16, 1], "texture": "#0"},
+				"south": {"uv": [8, 0, 16, 1], "texture": "#0"},
+				"west": {"uv": [8, 0, 16, 1], "texture": "#0"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"down": {"uv": [0, 8, 8, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "pos_torch",
+			"from": [7, 2, 12],
+			"to": [9, 7, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 2, 12]},
+			"faces": {
+				"north": {"uv": [9, 1, 10, 3.5], "texture": "#0"},
+				"east": {"uv": [9, 3.5, 10, 6], "texture": "#0"},
+				"south": {"uv": [9, 6, 10, 8.5], "texture": "#0"},
+				"west": {"uv": [9, 8.5, 10, 11], "texture": "#0"},
+				"up": {"uv": [10, 3, 11, 4], "texture": "#0"},
+				"down": {"uv": [10, 4, 11, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "pos_torch_overlay",
+			"from": [9.5, 7.5, 14.5],
+			"to": [6.5, 4.5, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 7, 14]},
+			"faces": {
+				"north": {"uv": [10, 5, 11, 6], "texture": "#0"},
+				"east": {"uv": [10, 6, 11, 7], "texture": "#0"},
+				"south": {"uv": [10, 7, 11, 8], "texture": "#0"},
+				"west": {"uv": [10, 8, 11, 9], "texture": "#0"},
+				"up": {"uv": [10, 9, 11, 10], "texture": "#0"},
+				"down": {"uv": [10, 10, 11, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "mode_torch",
+			"from": [12, 2, 12],
+			"to": [14, 7, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 2, 12]},
+			"faces": {
+				"north": {"uv": [8, 1, 9, 3.5], "texture": "#0"},
+				"east": {"uv": [8, 3.5, 9, 6], "texture": "#0"},
+				"south": {"uv": [8, 6, 9, 8.5], "texture": "#0"},
+				"west": {"uv": [8, 8.5, 9, 11], "texture": "#0"},
+				"up": {"uv": [10, 1, 11, 2], "texture": "#0"},
+				"down": {"uv": [10, 2, 11, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "mode_torch_overlay",
+			"from": [14.5, 7.5, 14.5],
+			"to": [11.5, 4.5, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 7, 14]},
+			"faces": {
+				"north": {"uv": [11, 1, 12, 2], "texture": "#0"},
+				"east": {"uv": [11, 2, 12, 3], "texture": "#0"},
+				"south": {"uv": [11, 3, 12, 4], "texture": "#0"},
+				"west": {"uv": [11, 4, 12, 5], "texture": "#0"},
+				"up": {"uv": [11, 5, 12, 6], "texture": "#0"},
+				"down": {"uv": [11, 6, 12, 7], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "amplifier",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}

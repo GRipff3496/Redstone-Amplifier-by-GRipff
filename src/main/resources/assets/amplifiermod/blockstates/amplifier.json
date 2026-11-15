@@ -1,0 +1,89 @@
+{
+  "variants": {
+    "facing=north,torch_pos=0,mode=false,signal_in=false": { "model": "amplifiermod:block/amplifier_off_off_pos0", "y": 180 },
+    "facing=north,torch_pos=0,mode=false,signal_in=true":  { "model": "amplifiermod:block/amplifier_off_on_pos0", "y": 180 },
+    "facing=north,torch_pos=0,mode=true,signal_in=false":  { "model": "amplifiermod:block/amplifier_on_off_pos0", "y": 180 },
+    "facing=north,torch_pos=0,mode=true,signal_in=true":   { "model": "amplifiermod:block/amplifier_on_on_pos0", "y": 180 },
+
+    "facing=north,torch_pos=1,mode=false,signal_in=false": { "model": "amplifiermod:block/amplifier_off_off_pos1", "y": 180 },
+    "facing=north,torch_pos=1,mode=false,signal_in=true":  { "model": "amplifiermod:block/amplifier_off_on_pos1", "y": 180 },
+    "facing=north,torch_pos=1,mode=true,signal_in=false":  { "model": "amplifiermod:block/amplifier_on_off_pos1", "y": 180 },
+    "facing=north,torch_pos=1,mode=true,signal_in=true":   { "model": "amplifiermod:block/amplifier_on_on_pos1", "y": 180 },
+
+    "facing=north,torch_pos=2,mode=false,signal_in=false": { "model": "amplifiermod:block/amplifier_off_off_pos2", "y": 180 },
+    "facing=north,torch_pos=2,mode=false,signal_in=true":  { "model": "amplifiermod:block/amplifier_off_on_pos2", "y": 180 },
+    "facing=north,torch_pos=2,mode=true,signal_in=false":  { "model": "amplifiermod:block/amplifier_on_off_pos2", "y": 180 },
+    "facing=north,torch_pos=2,mode=true,signal_in=true":   { "model": "amplifiermod:block/amplifier_on_on_pos2", "y": 180 },
+
+    "facing=north,torch_pos=3,mode=false,signal_in=false": { "model": "amplifiermod:block/amplifier_off_off_pos3", "y": 180 },
+    "facing=north,torch_pos=3,mode=false,signal_in=true":  { "model": "amplifiermod:block/amplifier_off_on_pos3", "y": 180 },
+    "facing=north,torch_pos=3,mode=true,signal_in=false":  { "model": "amplifiermod:block/amplifier_on_off_pos3", "y": 180 },
+    "facing=north,torch_pos=3,mode=true,signal_in=true":   { "model": "amplifiermod:block/amplifier_on_on_pos3", "y": 180 },
+
+
+
+    "facing=east,torch_pos=0,mode=false,signal_in=false": { "model": "amplifiermod:block/amplifier_off_off_pos0", "y": 270 },
+    "facing=east,torch_pos=0,mode=false,signal_in=true":  { "model": "amplifiermod:block/amplifier_off_on_pos0", "y": 270 },
+    "facing=east,torch_pos=0,mode=true,signal_in=false":  { "model": "amplifiermod:block/amplifier_on_off_pos0", "y": 270 },
+    "facing=east,torch_pos=0,mode=true,signal_in=true":   { "model": "amplifiermod:block/amplifier_on_on_pos0", "y": 270 },
+
+    "facing=east,torch_pos=1,mode=false,signal_in=false": { "model": "amplifiermod:block/amplifier_off_off_pos1", "y": 270 },
+    "facing=east,torch_pos=1,mode=false,signal_in=true":  { "model": "amplifiermod:block/amplifier_off_on_pos1", "y": 270 },
+    "facing=east,torch_pos=1,mode=true,signal_in=false":  { "model": "amplifiermod:block/amplifier_on_off_pos1", "y": 270 },
+    "facing=east,torch_pos=1,mode=true,signal_in=true":   { "model": "amplifiermod:block/amplifier_on_on_pos1", "y": 270 },
+
+    "facing=east,torch_pos=2,mode=false,signal_in=false": { "model": "amplifiermod:block/amplifier_off_off_pos2", "y": 270 },
+    "facing=east,torch_pos=2,mode=false,signal_in=true":  { "model": "amplifiermod:block/amplifier_off_on_pos2", "y": 270 },
+    "facing=east,torch_pos=2,mode=true,signal_in=false":  { "model": "amplifiermod:block/amplifier_on_off_pos2", "y": 270 },
+    "facing=east,torch_pos=2,mode=true,signal_in=true":   { "model": "amplifiermod:block/amplifier_on_on_pos2", "y": 270 },
+
+    "facing=east,torch_pos=3,mode=false,signal_in=false": { "model": "amplifiermod:block/amplifier_off_off_pos3", "y": 270 },
+    "facing=east,torch_pos=3,mode=false,signal_in=true":  { "model": "amplifiermod:block/amplifier_off_on_pos3", "y": 270 },
+    "facing=east,torch_pos=3,mode=true,signal_in=false":  { "model": "amplifiermod:block/amplifier_on_off_pos3", "y": 270 },
+    "facing=east,torch_pos=3,mode=true,signal_in=true":   { "model": "amplifiermod:block/amplifier_on_on_pos3", "y": 270 },
+
+
+
+    "facing=south,torch_pos=0,mode=false,signal_in=false": { "model": "amplifiermod:block/amplifier_off_off_pos0", "y": 0 },
+    "facing=south,torch_pos=0,mode=false,signal_in=true":  { "model": "amplifiermod:block/amplifier_off_on_pos0", "y": 0 },
+    "facing=south,torch_pos=0,mode=true,signal_in=false":  { "model": "amplifiermod:block/amplifier_on_off_pos0", "y": 0 },
+    "facing=south,torch_pos=0,mode=true,signal_in=true":   { "model": "amplifiermod:block/amplifier_on_on_pos0", "y": 0 },
+
+    "facing=south,torch_pos=1,mode=false,signal_in=false": { "model": "amplifiermod:block/amplifier_off_off_pos1", "y": 0 },
+    "facing=south,torch_pos=1,mode=false,signal_in=true":  { "model": "amplifiermod:block/amplifier_off_on_pos1", "y": 0 },
+    "facing=south,torch_pos=1,mode=true,signal_in=false":  { "model": "amplifiermod:block/amplifier_on_off_pos1", "y": 0 },
+    "facing=south,torch_pos=1,mode=true,signal_in=true":   { "model": "amplifiermod:block/amplifier_on_on_pos1", "y": 0 },
+
+    "facing=south,torch_pos=2,mode=false,signal_in=false": { "model": "amplifiermod:block/amplifier_off_off_pos2", "y": 0 },
+    "facing=south,torch_pos=2,mode=false,signal_in=true":  { "model": "amplifiermod:block/amplifier_off_on_pos2", "y": 0 },
+    "facing=south,torch_pos=2,mode=true,signal_in=false":  { "model": "amplifiermod:block/amplifier_on_off_pos2", "y": 0 },
+    "facing=south,torch_pos=2,mode=true,signal_in=true":   { "model": "amplifiermod:block/amplifier_on_on_pos2", "y": 0 },
+
+    "facing=south,torch_pos=3,mode=false,signal_in=false": { "model": "amplifiermod:block/amplifier_off_off_pos3", "y": 0 },
+    "facing=south,torch_pos=3,mode=false,signal_in=true":  { "model": "amplifiermod:block/amplifier_off_on_pos3", "y": 0 },
+    "facing=south,torch_pos=3,mode=true,signal_in=false":  { "model": "amplifiermod:block/amplifier_on_off_pos3", "y": 0 },
+    "facing=south,torch_pos=3,mode=true,signal_in=true":   { "model": "amplifiermod:block/amplifier_on_on_pos3", "y": 0 },
+
+
+
+    "facing=west,torch_pos=0,mode=false,signal_in=false": { "model": "amplifiermod:block/amplifier_off_off_pos0", "y": 90 },
+    "facing=west,torch_pos=0,mode=false,signal_in=true":  { "model": "amplifiermod:block/amplifier_off_on_pos0", "y": 90 },
+    "facing=west,torch_pos=0,mode=true,signal_in=false":  { "model": "amplifiermod:block/amplifier_on_off_pos0", "y": 90 },
+    "facing=west,torch_pos=0,mode=true,signal_in=true":   { "model": "amplifiermod:block/amplifier_on_on_pos0", "y": 90 },
+
+    "facing=west,torch_pos=1,mode=false,signal_in=false": { "model": "amplifiermod:block/amplifier_off_off_pos1", "y": 90 },
+    "facing=west,torch_pos=1,mode=false,signal_in=true":  { "model": "amplifiermod:block/amplifier_off_on_pos1", "y": 90 },
+    "facing=west,torch_pos=1,mode=true,signal_in=false":  { "model": "amplifiermod:block/amplifier_on_off_pos1", "y": 90 },
+    "facing=west,torch_pos=1,mode=true,signal_in=true":   { "model": "amplifiermod:block/amplifier_on_on_pos1", "y": 90 },
+
+    "facing=west,torch_pos=2,mode=false,signal_in=false": { "model": "amplifiermod:block/amplifier_off_off_pos2", "y": 90 },
+    "facing=west,torch_pos=2,mode=false,signal_in=true":  { "model": "amplifiermod:block/amplifier_off_on_pos2", "y": 90 },
+    "facing=west,torch_pos=2,mode=true,signal_in=false":  { "model": "amplifiermod:block/amplifier_on_off_pos2", "y": 90 },
+    "facing=west,torch_pos=2,mode=true,signal_in=true":   { "model": "amplifiermod:block/amplifier_on_on_pos2", "y": 90 },
+
+    "facing=west,torch_pos=3,mode=false,signal_in=false": { "model": "amplifiermod:block/amplifier_off_off_pos3", "y": 90 },
+    "facing=west,torch_pos=3,mode=false,signal_in=true":  { "model": "amplifiermod:block/amplifier_off_on_pos3", "y": 90 },
+    "facing=west,torch_pos=3,mode=true,signal_in=false":  { "model": "amplifiermod:block/amplifier_on_off_pos3", "y": 90 },
+    "facing=west,torch_pos=3,mode=true,signal_in=true":   { "model": "amplifiermod:block/amplifier_on_on_pos3", "y": 90 }
+  }
+}
